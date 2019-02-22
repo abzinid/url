@@ -440,11 +440,11 @@ window.location = 'https://t.me/joinchat/AAAAAEZV2Wo_A9vCbE_hgw';
 }
 if (window.location.pathname == "/2018/11/dream-league-apk.html")
 {
-window.location = 'https://t.me/joinchat/AAAAAEZV2Wo_A9vCbE_hgw';
+window.location = 'https://t.me/ehi_opener';
 }
 if (window.location.pathname == "/2018/11/dream-league-apk.html?m=1")
 {
-window.location = 'https://t.me/joinchat/AAAAAEZV2Wo_A9vCbE_hgw';
+window.location = 'https://t.me/ehi_opener';
 }
 if(window.location.pathname == "/p/earn.html")
 {
